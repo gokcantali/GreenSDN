@@ -1,0 +1,11 @@
+---Simulated Annealing---
+best_energy: 20692.47
+# of open_switches: 17
+
+---OSPF---
+best_energy: 13594.47
+# of open_switches: 11
+
+---Simulation Time---
+Minutes: 0
+Seconds: 0
